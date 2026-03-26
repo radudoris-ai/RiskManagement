@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/JourneyRunner","riskmanagement1/risks/test/integration/pages/RisksList","riskmanagement1/risks/test/integration/pages/RisksObjectPage"],function(e,s,t){"use strict";var i=new e({launchUrl:sap.ui.require.toUrl("riskmanagement1/risks")+"/test/flpSandbox.html#riskmanagement1risks-tile",pages:{onTheRisksList:s,onTheRisksObjectPage:t},async:true});return i});
+//# sourceMappingURL=JourneyRunner.js.map
